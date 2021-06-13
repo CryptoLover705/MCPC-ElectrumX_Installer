@@ -30,13 +30,13 @@ The following operating systems are officially supported and automatically being
 
 | OS | Status |
 |----------|---:|
-| Ubuntu 20.04   | [![ubuntu](https://badges.herokuapp.com/travis/CryptoLover705/MCPC-ElectrumX_Installer?env=IMAGE=%22ubuntu:20.04%22&label=ubuntu:20.04)](https://travis-ci.org/CryptoLover705/MCPC-ElectrumX_Installer/) |
-| Ubuntu 18.04   | [![ubuntu](https://badges.herokuapp.com/travis/CryptoLover705/MCPC-ElectrumX_Installer?env=IMAGE=%22ubuntu:18.04%22&label=ubuntu:18.04)](https://travis-ci.org/CryptoLover705/MCPC-ElectrumX_Installer/) |
-| Fedora 29      | [![centos](https://badges.herokuapp.com/travis/CryptoLover705/MCPC-ElectrumX_Installer?env=IMAGE=%22fedora:28%22&label=fedora:28)](https://travis-ci.org/CryptoLover705/MCPC-ElectrumX_Installer/) |
-| Ubuntu 16.04   | [![ubuntu](https://badges.herokuapp.com/travis/CryptoLover705/MCPC-ElectrumX_Installer?env=IMAGE=%22ubuntu:16.04%22&label=ubuntu:16.04)](https://travis-ci.org/CryptoLover705/MCPC-ElectrumX_Installer/) |
-| CentOS 7       | [![centos](https://badges.herokuapp.com/travis/CryptoLover705/MCPC-ElectrumX_Installer?env=IMAGE=%22centos:7%22&label=centos:7)](https://travis-ci.org/CryptoLover705/MCPC-ElectrumX_Installer/) |
-| Debian Stretch | [![debian](https://badges.herokuapp.com/travis/CryptoLover705/MCPC-ElectrumX_Installer?env=IMAGE=%22debian:9%22&label=debian:9)](https://travis-ci.org/CryptoLover705/MCPC-ElectrumX_Installer/) |
-| Debian Buster  | [![debian](https://badges.herokuapp.com/travis/CryptoLover705/MCPC-ElectrumX_Installer?env=IMAGE=%22debian:10%22&label=debian:10)](https://travis-ci.org/CryptoLover705/MCPC-ElectrumX_Installer/) |
+| Ubuntu 20.04   | [![ubuntu](https://badges.herokuapp.com/travis/CryptoLover705/MCPC-ElectrumX_Installer?env=IMAGE=%22ubuntu:20.04%22&label=ubuntu:20.04)](https://travis-ci.com/CryptoLover705/MCPC-ElectrumX_Installer/) |
+| Ubuntu 18.04   | [![ubuntu](https://badges.herokuapp.com/travis/CryptoLover705/MCPC-ElectrumX_Installer?env=IMAGE=%22ubuntu:18.04%22&label=ubuntu:18.04)](https://travis-ci.com/CryptoLover705/MCPC-ElectrumX_Installer/) |
+| Fedora 29      | [![centos](https://badges.herokuapp.com/travis/CryptoLover705/MCPC-ElectrumX_Installer?env=IMAGE=%22fedora:28%22&label=fedora:28)](https://travis-ci.com/CryptoLover705/MCPC-ElectrumX_Installer/) |
+| Ubuntu 16.04   | [![ubuntu](https://badges.herokuapp.com/travis/CryptoLover705/MCPC-ElectrumX_Installer?env=IMAGE=%22ubuntu:16.04%22&label=ubuntu:16.04)](https://travis-ci.com/CryptoLover705/MCPC-ElectrumX_Installer/) |
+| CentOS 7       | [![centos](https://badges.herokuapp.com/travis/CryptoLover705/MCPC-ElectrumX_Installer?env=IMAGE=%22centos:7%22&label=centos:7)](https://travis-ci.com/CryptoLover705/MCPC-ElectrumX_Installer/) |
+| Debian Stretch | [![debian](https://badges.herokuapp.com/travis/CryptoLover705/MCPC-ElectrumX_Installer?env=IMAGE=%22debian:9%22&label=debian:9)](https://travis-ci.com/CryptoLover705/MCPC-ElectrumX_Installer/) |
+| Debian Buster  | [![debian](https://badges.herokuapp.com/travis/CryptoLover705/MCPC-ElectrumX_Installer?env=IMAGE=%22debian:10%22&label=debian:10)](https://travis-ci.com/CryptoLover705/MCPC-ElectrumX_Installer/) |
 
 
 If you prefer a different operating system that's not listed here, see
