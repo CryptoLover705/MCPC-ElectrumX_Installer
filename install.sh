@@ -10,8 +10,8 @@ UPDATE_ONLY=0
 UPDATE_PYTHON=0
 VERBOSE=0
 USE_ROCKSDB=1
-ELECTRUMX_GIT_URL="https://github.com/CryptoLover705/MCPC-ElectrumX"
-ELECTRUMX_GIT_BRANCH=""
+ELECTRUMX_GIT_URL="https://github.com/CryptoLover705/MCPC-ElectrumX.git"
+ELECTRUMX_GIT_BRANCH="main"
 
 installer=$(realpath $0)
 
